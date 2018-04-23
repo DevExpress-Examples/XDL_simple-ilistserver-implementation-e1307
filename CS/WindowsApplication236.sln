@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{8DE20D39-FAA4-4814-BF74-B1A72CDB6C8A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIListServer", "SimpleIListServer\SimpleIListServer.csproj", "{C846191E-827C-4C8D-83B5-D0CCAECD61D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE20D39-FAA4-4814-BF74-B1A72CDB6C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE20D39-FAA4-4814-BF74-B1A72CDB6C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE20D39-FAA4-4814-BF74-B1A72CDB6C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE20D39-FAA4-4814-BF74-B1A72CDB6C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C846191E-827C-4C8D-83B5-D0CCAECD61D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C846191E-827C-4C8D-83B5-D0CCAECD61D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C846191E-827C-4C8D-83B5-D0CCAECD61D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C846191E-827C-4C8D-83B5-D0CCAECD61D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
