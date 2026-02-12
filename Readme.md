@@ -19,7 +19,7 @@ This is a basic implementation that doesn't demonstrate the efficiency of server
 * c:\Program Files (x86)\DevExpress 17.1\Components\Sources\DevExpress.Xpo\DevExpress.Xpo\ServerModeGridSource.cs
 * c:\Program Files (x86)\DevExpress 17.1\Components\Sources\DevExpress.Xpf.Core\DevExpress.Xpf.Core\Editors\Controls\LookUp\DataLayer\DataController\ServerMode\
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XDL_simple-ilistserver-implementation-e1307&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XDL_simple-ilistserver-implementation-e1307&~~~was_helpful=no)
 
